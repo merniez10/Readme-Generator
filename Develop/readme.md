@@ -1,22 +1,22 @@
 
 ## Title
-title
+Readme Generator
 
 ## Description
-b
+This project allows the user to create a readme file based on the information they enter.
 
 ## Installation Instructions
-c
-
-## Usage Instructions
-d
+The user will run npm i 
 
 ## License
 MIT License
 
 ## Github Username
-aa
+Merniez10
 
 ## Email Address
-bb
+Merniez10@outlook.com
+
+## Credits
+Sought help from U of U's software developer tutors. 
 
